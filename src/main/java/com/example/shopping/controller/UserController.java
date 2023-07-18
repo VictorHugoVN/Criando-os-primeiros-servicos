@@ -1,4 +1,4 @@
-package com.example.shopping.user;
+package com.example.shopping.controller;
 
 import java.sql.Date;
 import java.util.ArrayList;
